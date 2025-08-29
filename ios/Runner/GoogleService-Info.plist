@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>815611123624-73k960h372qnba8c8id065k3i617jvq1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.815611123624-73k960h372qnba8c8id065k3i617jvq1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDEO3ie81kV3M3t12jzZIRWEvCAswMFSno</string>
+	<key>GCM_SENDER_ID</key>
+	<string>815611123624</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.company.usemonily</string>
+	<key>PROJECT_ID</key>
+	<string>monily-261c6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>monily-261c6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:815611123624:ios:0b213f5fcde2b8ac266f9d</string>
+	<key>DATABASE_URL</key>
+	<string>https://monily-261c6-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
